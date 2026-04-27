@@ -1,8 +1,8 @@
 <div align="center">
-
+____________________________
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Baruna+Andrean;Frontend+%26+Backend+Explorer+%F0%9F%9A%80;UI%2FUX+Design+Lover+%F0%9F%8E%A8;OpenGL+Tinkerer+%E2%9C%A8;Powered+by+Caffeine+%E2%98%95" alt="Typing Animation" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Baruna+Andrean;Frontend+%26+Backend+Explorer+%F0%9F%9A%80;UI%2FUX+Design+Lover+%F0%9F%8E%A8;OpenGL+Tinkerer+%E2%9C%A8;Powered+by+Caffeine+%E2%98%95" alt="Typing Animation" />           
+____________________________
   <!-- Banner -->
   <img src="./asest/Baner%20Baruna.png" alt="Banner Baruna Andrean" width="100%" />
 
@@ -84,36 +84,6 @@ graph LR
 ```
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BarunaAndrean&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180em" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarunaAndrean&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" height="180em" />
-
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarunaAndrean&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="80%" />
-</div>
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BarunaAndrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" width="100%" />
-</div>
-
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarunaAndrean&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%" />
-</div>
 
 <!-- Now Playing / Gaming Section -->
 ## 🎮 When I'm Not Coding...
@@ -150,29 +120,7 @@ graph LR
   </a>
 
 </div>
+____________________________
 
-<!-- Contribution Snake -->
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BarunaAndrean/BarunaAndrean/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BarunaAndrean/BarunaAndrean/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BarunaAndrean/BarunaAndrean/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- Quote Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Keep%20Coding%20%26%20Stay%20Caffeinated!&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%"/>
-
-  <h3>⭐ If my code works on the first try, it's probably a miracle ⭐</h3>
-
-</div>
 
